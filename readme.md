@@ -1,0 +1,1 @@
+Esta é uma biblioteca simples para uso do Excel, ela usa a bilioteca openpyxl como base
